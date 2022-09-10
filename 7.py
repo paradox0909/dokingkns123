@@ -27,5 +27,6 @@ def sumtotal(a,b):
         total = total + i
         return total
 # 6. 모듈 (외부기능)
+#fdjifdjifjdifjeifejidfj
 
 
